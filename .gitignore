@@ -102,3 +102,4 @@ $RECYCLE.BIN/
 # VSCode + Plugins
 .history
 .vscode
+.idea
